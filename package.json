@@ -1,0 +1,16 @@
+{
+  "name": "tablas",
+  "version": "1.0.0",
+  "description": "aplicación de linea de comando para imprimir tablas de multiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Signo Slichtnacht",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {}
+}
